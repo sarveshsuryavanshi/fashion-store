@@ -1,0 +1,22 @@
+body{
+background:#f5f5f5;
+}
+
+.card{
+margin-bottom:20px;
+transition:0.3s;
+}
+
+.card:hover{
+transform:scale(1.05);
+}
+
+.card img{
+height:250px;
+object-fit:cover;
+}
+
+header{
+background:linear-gradient(to right,#ff758c,#ff7eb3);
+color:white;
+}
